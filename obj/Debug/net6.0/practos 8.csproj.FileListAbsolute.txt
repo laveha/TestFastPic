@@ -1,0 +1,17 @@
+D:\Проекты\practos 8\obj\Debug\net6.0\practos 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\practos 8\obj\Debug\net6.0\practos 8.AssemblyInfoInputs.cache
+D:\Проекты\practos 8\obj\Debug\net6.0\practos 8.AssemblyInfo.cs
+D:\Проекты\practos 8\obj\Debug\net6.0\practos 8.csproj.CoreCompileInputs.cache
+D:\Проекты\practos 8\bin\Debug\net6.0\practos 8.exe
+D:\Проекты\practos 8\bin\Debug\net6.0\practos 8.deps.json
+D:\Проекты\practos 8\bin\Debug\net6.0\practos 8.runtimeconfig.json
+D:\Проекты\practos 8\bin\Debug\net6.0\practos 8.dll
+D:\Проекты\practos 8\bin\Debug\net6.0\practos 8.pdb
+D:\Проекты\practos 8\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Проекты\practos 8\obj\Debug\net6.0\practos 8.csproj.AssemblyReference.cache
+D:\Проекты\practos 8\obj\Debug\net6.0\practos 8.csproj.CopyComplete
+D:\Проекты\practos 8\obj\Debug\net6.0\practos 8.dll
+D:\Проекты\practos 8\obj\Debug\net6.0\refint\practos 8.dll
+D:\Проекты\practos 8\obj\Debug\net6.0\practos 8.pdb
+D:\Проекты\practos 8\obj\Debug\net6.0\practos 8.genruntimeconfig.cache
+D:\Проекты\practos 8\obj\Debug\net6.0\ref\practos 8.dll
